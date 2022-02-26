@@ -1,0 +1,52 @@
+	Tue Jun 16 12:56:30 CEST 2020
+elektryka karton 5 2000.0
+Suma: 10000.0
+========================
+	Tue Jun 16 17:11:15 CEST 2020
+elektryka karton 5 2000.0
+Suma: 10000.0
+========================
+	Tue Jun 16 17:14:13 CEST 2020
+spreglo plastyk 17 3500.0
+Suma: 57715.0
+========================
+	Wed Jun 17 08:11:10 CEST 2020
+elektryka karton 10 2000.0
+Suma: 19400.0
+========================
+	Wed Jun 17 08:19:50 CEST 2020
+elektryka karton 10 2000.0
+Suma: 19400.0
+========================
+	Wed Jun 17 08:28:05 CEST 2020
+elektryka karton 10 2000.0
+Suma: 19400.0
+========================
+	Wed Jun 17 08:37:36 CEST 2020
+elektryka karton 5 2000.0
+Suma: 10000.0
+========================
+	Wed Jun 17 08:39:17 CEST 2020
+elektryka karton 15 2000.0
+Suma: 29100.0
+========================
+	Wed Jun 17 13:39:59 CEST 2020
+filtry plastyk 5 500.0
+Suma: 2500.0
+========================
+	Wed Jun 17 13:49:58 CEST 2020
+elektryka karton 10 2000.0
+Suma: 19400.0
+========================
+	Wed Jun 17 13:53:44 CEST 2020
+elektryka karton 10 2000.0
+Suma: 19400.0
+========================
+	Wed Jun 17 13:58:42 CEST 2020
+elektryka karton 10 2000.0
+Suma: 19400.0
+========================
+	Wed Jun 17 14:01:15 CEST 2020
+elektryka karton 10 2000.0
+Suma: 19400.0
+========================

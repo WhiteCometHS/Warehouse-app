@@ -1,0 +1,7 @@
+Faktura:
+Sklep towarow
+Sprzedaz:
+elektryka karton 10 2000.0
+19400.0
+Dane klienta:
+Kiril Milosh milosh@tut.by

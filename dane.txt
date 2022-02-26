@@ -1,0 +1,6 @@
+elektryka	karton	40	2000.0
+klimatyzacja	karton	234	5000.0
+filtry	plastyk	945	500.0
+spreglo	plastyk	280	3500.0
+amortyzatory	karton	150	1500.0
+cewka zaplonowa	plastyk	100	1700.0
